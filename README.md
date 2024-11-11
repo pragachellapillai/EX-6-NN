@@ -1,7 +1,7 @@
-3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>Pragaharshitha NC</H3>
+<H3>212222110033.</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3>
+<H3>DATE:11/11/2024</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -16,7 +16,8 @@ Step 8:Make predictions on the testing set using mlp.predict(X_test).<BR>
 Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) with the actual labels (y_test) using accuracy_score().<BR>
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
-<H3>Program: </H3>
+<H3> Program: </H3>
+
 ```
 import numpy as np
 import pandas as pd
@@ -60,7 +61,9 @@ print(classification_rep)
 
 <H3>Output:</H3>
 
+
 ![Screenshot 2024-11-11 134659](https://github.com/user-attachments/assets/be5c5c6e-6b54-425a-96fc-83c29974bbb6)
+
 
 ![Screenshot 2024-11-11 134740](https://github.com/user-attachments/assets/02f5de68-3054-497d-8652-8ac92b930f6d)
 
